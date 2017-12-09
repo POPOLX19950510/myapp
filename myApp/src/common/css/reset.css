@@ -1,0 +1,13 @@
+ *{
+   margin:0;
+   padding:0;
+   text-align: center;
+   margin:auto;
+ }
+ body{
+   max-width: 1000px;
+ }
+a{
+  text-decoration: none;
+  color: black;
+}
